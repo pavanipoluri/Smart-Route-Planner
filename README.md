@@ -43,11 +43,14 @@ Coming soon...
 ---
 
 ## 📁 Project Structure
-Smart Route Planner/
-│── index.html
-│── style.css
-│── script.js
-│── SmartRoute.jpg
+
+```
+Smart Route Planner
+├── index.html
+├── style.css
+├── script.js
+└── SmartRoute.jpg
+```
 
 
 ---
