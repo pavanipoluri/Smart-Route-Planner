@@ -32,7 +32,7 @@ A web-based application that finds the shortest path between locations using Dij
 
 ## 📷 Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
